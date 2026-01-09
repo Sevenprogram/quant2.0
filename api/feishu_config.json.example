@@ -1,0 +1,7 @@
+{
+  "app_id": "your_app_id",
+  "app_secret": "your_app_secret",
+  "app_token": "your_app_token",
+  "table_id": "your_table_id",
+  "clear_existing": true
+}
